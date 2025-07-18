@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "cover": "https://covers.openlibrary.org/b/isbn/9780547928227-M.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Sci-Fi",
+      "cover": "https://covers.openlibrary.org/b/isbn/9780441172719-M.jpg"
+    }
+  ]
+}
